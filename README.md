@@ -10,7 +10,7 @@ This is an example screenshot of what the quiz app may look like.
 - On the homepage, click "Start"
 
 # How to contribute
-Follow this project board to know the latest status of the project: [Project Board]([https://github.com/orgs/cis3296f25/projects/41/views/2])  
+Follow this project board to know the latest status of the project: [Project Board](https://github.com/orgs/cis3296f25/projects/41/views/2)
 
 ### How to build
 - Fork this github repository

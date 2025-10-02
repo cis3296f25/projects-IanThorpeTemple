@@ -3,20 +3,11 @@ In this project, we propose developing I’m Not Human, an educational app to te
 
 This is an example screenshot of what the quiz app may look like.
 
-![This is a screenshot.](<img width="1711" height="834" alt="image" src="https://github.com/user-attachments/assets/e9b1c1b8-09e8-486f-ab38-3aee58f03607" />
-)
+![This is a screenshot.](images.png)
 # How to run
-Provide here instructions on how to use your application.   
-- Download the latest binary from the Release section on the right on GitHub.  
-- On the command line uncompress using
-```
-tar -xzf  
-```
-- On the command line run with
-```
-./hello
-```
-- You will see Hello World! on your terminal. 
+- Open your web browser (Chrome, Firefox, Safari, or Edge). 
+- Go to the app URL: TBD
+- On the homepage, click "Start"
 
 # How to contribute
 Follow this project board to know the latest status of the project: [http://...]([http://...])  

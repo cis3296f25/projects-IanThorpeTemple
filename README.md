@@ -3,7 +3,7 @@ In this project, we propose developing I’m Not Human, an educational app to te
 
 This is an example screenshot of what the quiz app may look like.
 
-![This is a screenshot.](images.png)
+![This is a screenshot.](Homescreen.png)
 # How to run
 - Open your web browser (Chrome, Firefox, Safari, or Edge). 
 - Go to the app URL: TBD

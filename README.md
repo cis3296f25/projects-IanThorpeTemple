@@ -13,9 +13,14 @@ This is an example screenshot of what the quiz app may look like.
 Follow this project board to know the latest status of the project: [http://...]([http://...])  
 
 ### How to build
-- Use this github repository: ... 
-- Specify what branch to use for a more stable release or for cutting edge development.  
-- Use InteliJ 11
-- Specify additional library to download if needed 
-- What file and target to compile and run. 
-- What is expected to happen when the app start. 
+- Fork this github repository
+- Use branch dev-YOUR-NAME to make changes.  
+- Necessary tools: Python 3.11.0, Flask, Node.js 22.15.0, React
+- Additional dependencies will be installed via:
+```
+pip install -r requirements.txt
+```
+and 
+```
+npm install
+```
